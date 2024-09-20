@@ -15,5 +15,12 @@
 	"options_ui": {
 		"page": "pages/options/options.html",
 		"open_in_tab": true
+	},
+	"commands": {
+		"_execute_browser_action": {
+			"suggested_key": {
+				"default": "Shift+T"
+			}
+		}
 	}
 }
